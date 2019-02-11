@@ -1,0 +1,28 @@
+Nome: Daniel dos santos arruda
+
+RA: 1800552
+-----------------------------------------
+-----------------------------------------
+
+cd (nome da pasta) -- acessa a pasta
+
+dir -- mostra o conteudo do diretório
+
+cd .. -- retorna a pasta anterior
+
+cd\ -- fecha todas as pastas de uma vez
+
+cls -- limpa a tela do pronpt de comando
+
+md (noma da pasta) -- cria uma nova pasta
+
+-------------------------------------------
+-------------------------------------------
+
+git clone (url do github) -- cria um clone da pasta do git
+
+git add . --
+
+git commit -m"mensagem que sera gravado no rótulo do arquivo" --
+
+senha da conta microsoft: Familia@4676
