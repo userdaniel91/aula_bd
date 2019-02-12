@@ -6,7 +6,7 @@ RA: 1800552
 
 cd (nome da pasta) -- acessa a pasta
 
-dir -- mostra o conteudo do diretório
+dir -- mostra o conteudo do diretÃ³rio
 
 cd .. -- retorna a pasta anterior
 
@@ -23,6 +23,8 @@ git clone (url do github) -- cria um clone da pasta do git
 
 git add . --
 
-git commit -m"mensagem que sera gravado no rótulo do arquivo" --
+git commit -m"mensagem que sera gravado no rÃ³tulo do arquivo" --
 
 senha da conta microsoft: Familia@4676
+
+teste.
