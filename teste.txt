@@ -18,6 +18,9 @@ md (noma da pasta) -- cria uma nova pasta
 
 -------------------------------------------
 -------------------------------------------
+git config --global user.name "nome do usuario"
+
+git config --global user.email "email do usuario"
 
 git clone (url do github) -- cria um clone da pasta do git
 
